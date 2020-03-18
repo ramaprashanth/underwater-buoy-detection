@@ -28,5 +28,5 @@ Place the `detectbuoy.avi` in the same folder as the code.
 https://drive.google.com/open?id=1uycS5PXgsG3qKZLo9W1OhZbHLsdWrR07
 
   <p align="center">
-  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/Underwater%20Buoy%20Detection/result_1.png">
+  <img src="https://github.com/ramaprashanth/underwater-buoy-detection/blob/master/result_1.png">
   </p>
