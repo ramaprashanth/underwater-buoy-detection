@@ -1,7 +1,7 @@
 # Underwater Buoy Detection
 The video sequence you are provided has been captured underwater and shows three buoys of differentcolors, namely yellow, orange and green.  They are almost circular in shape and are distinctly colored.  However,conventional segmentation techniques involving color thresholding will not work well in such an environment,since noise and varying light intensities will render any hard-coded thresholds ineffective.
 
-We will “learn” the color distributions of the buoys and use that learned model tosegment  them.   This  project  requires  you  to  obtain  a  tight  segmentation  of  each  buoy  for  the  entire  videosequence by applying a tight contour (in the respective color of the buoy being segmented) around each buoy by performing color  segmentation  using  Gaussian  Mixture  Models  andExpectation Maximization techniques.
+We will “learn” the color distributions of the buoys and use that learned model tosegment  them.   This  project  requires  you  to  obtain  a  tight  segmentation  of  each  buoy  for  the  entire  videosequence by applying a tight contour (in the respective color of the buoy being segmented) around each buoy by performing color  segmentation  using  Gaussian  Mixture  Models  and Expectation Maximization techniques.
 
 ## DataSet Download
 The dataset can be downloaded from here : 
